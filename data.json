@@ -1,0 +1,170 @@
+{
+  "petalsEnabled": true,
+  "audio": {
+    "enabled": true,
+    "src": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/April/Kriti%20%26%20Manmeet/ReelAudio-14254.mp3"
+  },
+  "entry": {
+    "enabled": true,
+    "envelopeImage": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Demo/Best%20Website%20Invite%20Demo%20(3).png",
+    "initials": {
+      "left": "M",
+      "right": "A"
+    },
+    "message": "With love and blessings,\nwe invite you to the wedding of:\nMeenal & Avinash"
+  },
+  "hero": {
+    "enabled": true,
+    "ganeshImageUrl": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Hemadri%20%26%20Ravindra/GAnesha%20Icon.png",
+    "blessingsIntro": "This is the sheet check ",
+    "bride": {
+      "name": "Dbdh",
+      "familyLine": "Daughter of Mr. Santosh Sahu & Mrs. Anjana Sahu"
+    },
+    "groom": {
+      "name": "Dhdj",
+      "familyLine": "Son of The Groom's Family"
+    }
+  },
+  "saveTheDate": {
+    "enabled": true,
+    "weddingDate": "2026-07-01",
+    "wording": "Scratch below to reveal our wedding date"
+  },
+  "story": {
+    "enabled": true,
+    "heading": "Forever Us",
+    "subheading": "Our Story",
+    "items": [
+      {
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Meenal%20%26%20Avinash%201st%20july/WhatsApp%20Image%202026-05-10%20at%2012.06.13%20AM%20(1).jpeg",
+        "caption": "Memories together",
+        "text": "From Scotland to London, building a lifetime of beautiful moments."
+      },
+      {
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Meenal%20%26%20Avinash%201st%20july/WhatsApp%20Image%202026-05-10%20at%2012.06.13%20AM%20(2).jpeg",
+        "caption": "Joy and laughter",
+        "text": "Every day with you is a celebration of love, laughter, and togetherness."
+      },
+      {
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Meenal%20%26%20Avinash%201st%20july/WhatsApp%20Image%202026-05-10%20at%2012.06.13%20AM.jpeg",
+        "caption": "Our beautiful forever",
+        "text": "Surrounded by blessings and love, our beautiful forever begins."
+      },
+      {
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/may/Meenal%20%26%20Avinash%201st%20july/WhatsApp%20Image%202026-05-10%20at%2012.06.55%20AM.jpeg",
+        "caption": "Written in the stars",
+        "text": "Two souls, one incredible journey. Written in the stars, forever in our hearts."
+      }
+    ]
+  },
+  "events": {
+    "enabled": true,
+    "heading": "Festivities",
+    "subheading": "The Celebrations Unfold",
+    "items": [
+      {
+        "eventType": "sangeet",
+        "title": "Sangeet Night",
+        "date": "2026-06-30",
+        "time": "7:00 PM",
+        "description": "\"Dhoom Machale, because the shaadi is on!\"",
+        "venue": "Accord Wildlife Pench Resort · Lawn 1",
+        "mapsUrl": "https://maps.google.com/?q=Accord+Wildlife+Pench+Resort",
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/ev/7.png",
+        "inviteStyle": "arch",
+        "dressCode": {
+          "enabled": true,
+          "label": "Festive Indian wear",
+          "colors": [
+            "#E2B4B1",
+            "#8A4F4C",
+            "#D4AF37"
+          ],
+          "names": "Rose · Maroon · Gold"
+        }
+      },
+      {
+        "eventType": "cocktail",
+        "title": "After Party",
+        "date": "2026-06-30",
+        "time": "11:00 PM",
+        "description": "\"The night is young, the beats are loud, and the party is just getting started!\"",
+        "venue": "Accord Wildlife Pench Resort · Poolside",
+        "mapsUrl": "https://maps.google.com/?q=Accord+Wildlife+Pench+Resort",
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/ev/8.png",
+        "inviteStyle": "sunset",
+        "dressCode": {
+          "enabled": false
+        }
+      },
+      {
+        "eventType": "carnival",
+        "title": "Carnival & Barati Welcome",
+        "date": "2026-07-01",
+        "time": "11:00 AM",
+        "description": "Carnival with colour, games, and laughter, followed by lunch and Barati welcome.",
+        "venue": "Accord Wildlife Pench Resort · Main Lawn",
+        "mapsUrl": "https://maps.google.com/?q=Accord+Wildlife+Pench+Resort",
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/ev/9.png",
+        "inviteStyle": "light",
+        "dressCode": {
+          "enabled": true,
+          "colors": [
+            "#F2EAE1",
+            "#F7DCDA"
+          ],
+          "names": "Ivory · Blush"
+        }
+      },
+      {
+        "eventType": "baraat",
+        "title": "Barat",
+        "date": "2026-07-01",
+        "time": "6:00 PM",
+        "description": "\"Dilwale dulhaaniya le ja rahe hain, and the beat is on!\"",
+        "venue": "Accord Wildlife Pench Resort · Entrance",
+        "mapsUrl": "https://maps.google.com/?q=Accord+Wildlife+Pench+Resort",
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/ev/10.png",
+        "inviteStyle": "dark",
+        "dressCode": {
+          "enabled": false
+        }
+      },
+      {
+        "eventType": "reception",
+        "title": "Reception & Pheras",
+        "date": "2026-07-01",
+        "time": "7:00 PM",
+        "description": "The sacred vows to begin our forever, followed by a grand celebration.",
+        "venue": "Accord Wildlife Pench Resort · Grand Banquet",
+        "mapsUrl": "https://maps.google.com/?q=Accord+Wildlife+Pench+Resort",
+        "image": "https://pub-1953a6673e864f3488c645252f75de98.r2.dev/ev/11.png",
+        "inviteStyle": "dark",
+        "dressCode": {
+          "enabled": true,
+          "label": "Traditional Indian / Formal",
+          "colors": [
+            "#8A2030",
+            "#D4AF37",
+            "#F2EAE1"
+          ],
+          "names": "Maroon · Gold · Ivory"
+        },
+        "highlighted": true
+      }
+    ]
+  },
+  "rsvp": {
+    "enabled": true,
+    "clientId": "sheet-test-wedding-1778950511778",
+    "wording": "Kindly let us know if you can make it — your presence will make this celebration whole."
+  },
+  "footer": {
+    "enabled": true,
+    "message": "Your presence will turn this real-life romance into a blockbuster we'll never forget.\n\nCome, dance, laugh, and celebrate with us in true Bollywood style!",
+    "regards": "Santosh Sahu & Anjana Sahu",
+    "couple": "Meenal & Avinash"
+  },
+  "clientId": "sheet-test-wedding-1778950511778"
+}
